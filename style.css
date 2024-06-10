@@ -1,5 +1,9 @@
+header {
+    background-color: hsl(108, 59%, 70%);
+    color: white;
+}
 .cabecalho {
-background: hsla(120, 68%, 30%, 0.952);
+    background: hsla(101, 46%, 57%, 0.952);
 padding: 0px 0;font-size: 40px;}
 .caixa {
 position: relative;
